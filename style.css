@@ -189,7 +189,7 @@ a {
             rgba(7, 11, 20, 0.78) 55%,
             rgba(7, 11, 20, 0.55) 100%
         ),
-        url("assets/hero.png") center / cover no-repeat;
+        url("img/hero.png") center / cover no-repeat;
 }
 
 .hero::after {
